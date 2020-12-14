@@ -1,0 +1,1 @@
+https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.13.0/beautify.min.js
